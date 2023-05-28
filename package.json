@@ -7,7 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "dsc publish -t"
   },
-  "keywords": ["daysnap", "typescript", "type"],
+  "keywords": [
+    "daysnap",
+    "typescript",
+    "type"
+  ],
   "author": "ajuan",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
