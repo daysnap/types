@@ -1,6 +1,6 @@
 {
   "name": "@daysnap/types",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "高阶 typescript 类型",
   "main": "src/index.ts",
   "scripts": {
