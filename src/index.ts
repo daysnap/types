@@ -1,4 +1,5 @@
 export * from './able'
+export * from './AnyObject'
 export * from './AnyPromiseFn'
 export * from './DeepPartial'
 export * from './Loose'
